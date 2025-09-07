@@ -1,6 +1,6 @@
 {
   "name": "sequelize-typescript-i18n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add i18n support to sequelize-typescript",
   "main": "src/index.ts",
   "scripts": {
